@@ -6,7 +6,10 @@
 #Output
 #A saída deve conter uma única linha o resultado da soma a + b.#
 
+print ("-=-=-"*20)
 a = int(input("Digite um numero: "))
 b = int(input("Digite um outro numero: "))
+
 produto = a + b
 print(f"Quatidade de produto :{produto}")
+print ("-=-=-"*20)
